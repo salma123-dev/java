@@ -1,0 +1,9 @@
+public class ZooManagement 
+{
+	int nbrCages =20;
+	String zooName = "my zoo";
+	public static void main(String[] args) 
+	{
+		System.out.println(zooName + "comporte" + nbrCages + " cages");
+    }
+}
